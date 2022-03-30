@@ -5,6 +5,7 @@
 #include<Windows.h>
 #include"MainElectricityBill.h"
 
+
 void details()
 {
     printf("Enter your  area name:\n");
