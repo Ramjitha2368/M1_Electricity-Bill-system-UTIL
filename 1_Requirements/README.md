@@ -49,6 +49,8 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 **When:** Need for calculation.
 
+**who:**  It manages all the information about Electricity, Electricity Board, Customer, Electricity.
+
 **How:** Calculates the user input as number of loads and gives the output.
 
 **Detail Requirements:**
