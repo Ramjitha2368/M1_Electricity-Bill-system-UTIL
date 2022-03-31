@@ -7,6 +7,9 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 
 [![CI](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/CI.yml)
 
+## Build Windows
+
+[![Build Windows](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Build%20Windows.yml)
  ## Folder Structure
 
 Folder             | Description
