@@ -34,6 +34,10 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 ## Unity Testing 
 
 [![Unity Testing](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Unity%20Testing.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Unity%20Testing.yml)
+
+## Valgrind
+[![Valgrind](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Valgrind.yml)
+
  ## Folder Structure
 
 Folder             | Description
