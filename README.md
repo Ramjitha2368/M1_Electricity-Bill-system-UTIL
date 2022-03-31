@@ -30,6 +30,10 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 ## Static Check
 
 [![Static Check](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Static%20Check.yml)
+
+## Unity Testing 
+
+[![Unity Testing](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Unity%20Testing.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Unity%20Testing.yml)
  ## Folder Structure
 
 Folder             | Description
