@@ -1,6 +1,6 @@
   
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = Electricity Bill system
 
 # Output directory
 BUILD = build
