@@ -38,6 +38,18 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 ## Valgrind
 [![Valgrind](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Valgrind.yml)
 
+## Codiga and Codacy Badges
+
+![Code QualityScore](https://api.codiga.io/project/32264/score/svg)
+
+![Code Grade](https://api.codiga.io/project/32264/status/svg)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1a07f9e19bb467781bed34bd881f53e)](https://www.codacy.com/gh/Ramjitha2368/M1_Electricity-Bill-system-UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ramjitha2368/M1_Electricity-Bill-system-UTIL&amp;utm_campaign=Badge_Grade)
+
+##Code Inspector
+
+![Screenshot (2)](https://user-images.githubusercontent.com/101034610/161004644-155ff622-2695-4a3c-a35d-cc47010635ac.png)
+
  ## Folder Structure
 
 Folder             | Description
