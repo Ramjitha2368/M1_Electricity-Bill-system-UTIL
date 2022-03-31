@@ -22,6 +22,10 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 ## Cpp Check
 
 [![Cpp Check](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Cpp%20Check.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Cpp%20Check.yml)
+
+## Dynamic Check
+
+[![Dynamic Check](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Dynamic%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Dynamic%20check.yml)
  ## Folder Structure
 
 Folder             | Description
