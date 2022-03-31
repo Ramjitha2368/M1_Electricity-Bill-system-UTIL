@@ -18,6 +18,10 @@ Electricity consumers are often faced with the problem of inaccuracy and delay i
 ## contribution Check-Git Inspector
 
 [![Contribution Check-Git Inspector](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
+
+## Cpp Check
+
+[![Cpp Check](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Cpp%20Check.yml/badge.svg)](https://github.com/Ramjitha2368/M1_Electricity-Bill-system-UTIL/actions/workflows/Cpp%20Check.yml)
  ## Folder Structure
 
 Folder             | Description
